@@ -5,7 +5,7 @@
 ## 适用场景
 
 - 「按这套卷的格式再出一套」「出平行卷 / B 卷」「分析这份试卷的结构」
-- 不适用：从零排版新试卷；只需要把 LaTeX 转公式（用 [mathtype-word-latex](https://github.com/woshidashen804/mathtype-word-latex)）
+- 不适用：从零排版新试卷；只需要把 LaTeX 转公式（用 [mathtype-word-latex](https://github.com/shuxuexiaoli/mathtype-word-latex)）
 
 ## 工作方式
 
@@ -30,4 +30,4 @@ exam-paper-cloner/
 
 本仓库是一份给 AI 助手加载的技能（skill）：把 `SKILL.md` 与 `scripts/` 提供给助手，并给一份模板试卷 `.docx`，即可按流程产出平行卷。公式转 MathType 的环节与 mathtype-word-latex 技能配合完成。
 
-> 作者为职业院校数学教师，更多教学工具见主页：https://github.com/woshidashen804
+> 作者为职业院校数学教师，更多教学工具见主页：https://github.com/shuxuexiaoli
